@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+streamlit
+opencv-python-headless
+ultralytics==8.2.38
+Pillow
+pytesseract
+dill
